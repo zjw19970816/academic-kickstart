@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Education"
-  url = "#featured"
+  url = "#projects"
   weight = 30
 
 [[main]]
