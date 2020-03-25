@@ -57,7 +57,16 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Hello! Welcome to my personal website, I am Jiatong SONG, a transportation engineer and a growing traffic research student who are studying at the HKUST. My Life motto is: to create, to experience.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I graduated from the Department of Traffic&Transportation Engineering of CSU majoring in Traffic Equipment and Control Engineering. During the period, I enjoyed a wonderful experience in my school. I have won the postgraduate admission in CSU, national scholarship for encouragement, first-class scholarship and other awards in CSU, as well as the honorary titles of Merit Student and Excellent Student Cadre.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The free and open education of Central South University gives me a lot of opportunities to participate in various student works, competitions and research activities. I used to work in the Youth Volunteer Association Group, the class league secretary and the Hunan, Hong Kong, Macao and Taiwan Students Communication Committee. These experiences have cultivated my teamwork and time management ability. Besides, I also participated in various scientific research and competitions, such as participating in the "training cup" by making self-winding obstacle cars and working in the Prof. Liu 's "opportunity communication in smart city" research group. In addition, I also participated in the transportation science and technology competition with the "school bus reservation APP" project and make a teamwork in the American mathematical modeling competition. These impressive research and competition experiences not only motivate my interest in research but also improve my research ability.
+
+The desire and pursuit of advanced scientific research technology and international education, and in order to further expand my vision and enhance my ability, I chose to give up the qualification of Central South University to study as a postgraduate at HKUST.  At present, I have been studying in HKUST for 6 months. Different environments and international teaching have brought me new challenges and motivation, inspiring me to continuously explore and move forward.  I am studying advanced electronic and computer knowledge in ECE.  I am eager to combine intelligence, AI and informatization with traffic engineering to study advanced intelligent traffic field.
+
+All the past is a preface, looking forward to the future with firm steps. The so-called "the brave step through obstacles and the persistent step up to the peak". I would like to be a brave and persistent person on the road to scientific research and dedicate myself to the field of transportation.  At present, my goal is to:
+1) Get the chance to read a doctor
+2) to obtain a doctor's degree in transportation and civil engineering within 5 years.
+3) During his PhD, he published 4-5 papers in the field of transportation.
+4) Become an assistant professor within 7 years
