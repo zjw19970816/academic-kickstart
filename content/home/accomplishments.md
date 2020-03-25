@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "HongKong"
-  organization_url = "https://www.coursera.org"
+  organization_url = ""
   title = "Hong Kong University of Science and Technology"
   subtitle = "M.S. in IC Design"
   url = "https://en.wikipedia.org/wiki/Hong_Kong_University_of_Science_and_Technology"
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Changsha，China"
-  organization_url = "https://www.edx.org"
+  organization_url = ""
   title = "Central South University"
   subtitle = "B.S. in Traffic Equipment and Control Engineering"
   url = "https://en.wikipedia.org/wiki/Central_South_University"
