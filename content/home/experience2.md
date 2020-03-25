@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://en.wikipedia.org/wiki/Hong_Kong_University_of_Science_and_Technology"
   location = "HongKong, China"
   date_start = "2019-09-02"
-  date_end = "Until Now"
+  date_end = ""
   description = """
   GPA: 4.15/4.3 for FALL Term
   
