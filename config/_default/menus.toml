@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Education"
-  url = "#experience2"
+  url = "#experience"
   weight = 30
 
 [[main]]
