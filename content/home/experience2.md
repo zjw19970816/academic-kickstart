@@ -45,8 +45,8 @@ date_format = "Jan 2006"
   
   * Postgraduate Recommendation
   * National Scholarship for Encouragement 
-  * Three Times Scholarship
-  * Two Times Merit Student
+  * Scholarship(Three Times)
+  * Merit Student(Two Times)
     """
  
 
