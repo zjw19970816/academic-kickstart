@@ -30,7 +30,7 @@ subtitle = ""
   icon = "creative-commons-share"
   icon_pack = "fab"
   name = "Mobile Development"
-  description = "School Bus Reservation APP & Development Android App Development"
+  description = "School Bus Reservation APP & Android App Development"
   
 [[feature]]
   icon = "dblp"
