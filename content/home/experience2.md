@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Hong Kong University of Science and Technology"
+  company = "M.S. in IC Design"
+  company_url = "https://en.wikipedia.org/wiki/Hong_Kong_University_of_Science_and_Technology"
+  location = "HongKong, China"
+  date_start = "2019-09-02"
+  date_end = "Until Now"
   description = """
-  Responsibilities include:
+  GPA: 4.15/4.3 for FALL Term
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * EESM 5200 A+
+  * EESM 5100 A+
+  * EESM 5060 A
+  * EESM 5000 A
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Central South University"
+  company = "B.S. in Traffic Equipment and Control Engineering"
+  company_url = "https://en.wikipedia.org/wiki/Central_South_University"
+  location = "Changsha, China"
+  date_start = "2015-09-01"
+  date_end = "2019-06-30"
+  description = """
+  GPA: 87.31/100 for 4 years
+  
+  * Postgraduate recommendation
+  * National Scholarship for Encouragement 
+  * Three Times Scholarship
+  * Two Times Merit Student
+    """
+ 
 
 +++
