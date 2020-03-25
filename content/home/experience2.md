@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   description = """
   GPA: 87.31/100 for 4 years
   
-  * Postgraduate recommendation
+  * Postgraduate Recommendation
   * National Scholarship for Encouragement 
   * Three Times Scholarship
   * Two Times Merit Student
