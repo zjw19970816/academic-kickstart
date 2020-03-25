@@ -19,33 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = "HongKong"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  title = "Hong Kong University of Science and Technology"
+  url = "M.S. in IC Design"
+  certificate_url = "https://en.wikipedia.org/wiki/Hong_Kong_University_of_Science_and_Technology"
+  date_start = "2019-09-02"
+  date_end = "Until now"
+  description = "GPA: 4.15/4.3 for FALL Term"
 
 [[item]]
-  organization = "edX"
+  organization = "Changsha，China"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  title = "Central South University"
+  url = "B.S. in Traffic Equipment and Control Engineering"
+  certificate_url = "https://en.wikipedia.org/wiki/Central_South_University"
+  date_start = "2015-09-01"
+  date_end = "2019-06-30"
+  description = "GPA: 87.31/100 for 4 years"
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
 
 +++
