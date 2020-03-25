@@ -21,20 +21,20 @@ date_format = "Jan 2006"
 [[item]]
   organization = "HongKong"
   title = "Hong Kong University of Science and Technology"
-  certificate = "M.S. in IC Design"
+  certificate = ""
   url = "https://en.wikipedia.org/wiki/Hong_Kong_University_of_Science_and_Technology"
   date_start = "2019-09-02"
   date_end = ""
-  description = "GPA: 4.15/4.3 for FALL Term"
+  description = "M.S. in IC Design GPA: 4.15/4.3 for FALL Term"
 
 [[item]]
   organization = "Changsha, China"
   title = "Central South University"
-  certificate = "B.S. in Traffic Equipment and Control Engineering"
+  certificate = ""
   url = "https://en.wikipedia.org/wiki/Central_South_University"
   date_start = "2015-09-01"
   date_end = "2019-06-30"
-  description = "GPA: 87.31/100 for 4 years"
+  description = "B.S. in Traffic Equipment and Control Engineering GPA: 87.31/100 for 4 years"
   
 
 +++
