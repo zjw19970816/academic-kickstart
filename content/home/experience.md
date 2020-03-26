@@ -39,9 +39,11 @@ date_format = "Jan 2006"
   location = "Zhuzhou, Hunan"
   date_start = "2020-01-18"
   date_end = "2019-12-18"
-  description = """	Learning the design and principle of the auto control board and the drive board, understanding the production    
+  description = """	
+  Learning the design and principle of the auto control board and the drive board, understanding the production    
   process of the auto control board and the drive board, participating in the development of the company's project products, and at the 
-  same time understanding the principle, debugging and UD of the auto motor control."""
+  same time understanding the principle, debugging and UD of the auto motor control.
+  """
   
 [[experience]]
   title = "Automobile Division of Zhuzhou CRRC Times Electric Co.，Ltd. "
@@ -50,6 +52,8 @@ date_format = "Jan 2006"
   location = "Zhuzhou, Hunan"
   date_start = "2018-07-01"
   date_end = "2018-09-01"
-  description = """	Circuit board (manual & automatic)，Automobile control panel and driving plate."""
+  description = """
+  Circuit board (manual & automatic)，Automobile control panel and driving plate.
+  """
 
 +++
