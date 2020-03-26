@@ -57,16 +57,16 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello! Welcome to my personal website, I am Jiatong SONG, a transportation engineer and a growing traffic research student who are studying at the HKUST. My Life motto is: to create, to experience.
+Hello! Welcome to my personal website, I am Jiatong SONG, a transportation engineer and a growing traffic research student who is studying at HKUST. My Life motto is: to create, to experience.
 
-I graduated from the Department of Traffic&Transportation Engineering of CSU majoring in Traffic Equipment and Control Engineering. During the period, I enjoyed a wonderful experience in my school. I have won the Postgraduate Recommendation in CSU, national scholarship for encouragement, first-class scholarship and other awards in CSU, as well as the honorary titles of Merit Student and Excellent Student Cadre.
+I graduated from the Department of Traffic&Transportation Engineering of CSU majoring in Traffic Equipment and Control Engineering. During the period, I enjoyed a wonderful experience in my school. I have won the Postgraduate Recommendation in CSU, National Scholarship for Encouragement, First-class Scholarship and many other awards in CSU, as well as the honorary titles of Merit Student and Excellent Student Cadre.
 
-The free and open education of Central South University gives me a lot of opportunities to participate in various student works, competitions and research activities. I used to work in the Youth Volunteer Association Group, the class league secretary and the Hunan, Hong Kong, Macao and Taiwan Students Communication Committee. These experiences have cultivated my teamwork and time management ability. Besides, I also participated in various scientific research and competitions, such as participating in the "training cup" by making self-winding obstacle cars and working in the Prof. Liu 's "opportunity communication in smart city" research group. In addition, I also participated in the transportation science and technology competition with the "school bus reservation APP" project and make a teamwork in the American mathematical modeling competition. These impressive research and competition experiences not only motivate my interest in research but also improve my research ability.
+The free and open education style of Central South University gives me a lot of opportunities to participate in various student works, competitions and research activities. I used to work in the Youth Volunteer Association Group, the Class League Secretary and the Hunan, Hong Kong, Macao and Taiwan Students Communication Committee. These experiences have cultivated my teamwork and time management ability. Besides, I also participated in various scientific research and competitions, such as participating in the "training cup" by making self-winding obstacle cars and working in the Prof. Liu's "opportunity communication in smart city" research group. In addition, I also took part in the transportation science and technology competition with the "school bus reservation APP" project and made a teamwork in the American mathematical modeling competition. These impressive research and competition experiences not only motivate my interest in research but also improve my problem-solving ability.
 
 The desire for the most advanced scientific technology and international education, I give up the Postgraduate Recommendation of CSU and choose to study in HKUST. At present, I have been learning in UST for 6 months. Different education environments and international teaching mode bring me new challenges and opportunities, which inspire me to continuously explore mystery and move forward. Now, I am studying advanced electronic and computer theory in ECE department.  I am eager to combine intelligence, AI and smart technology with traffic&transportation engineering.
 
 My current goal:
-1) Get the chance to read a doctor
-2) to obtain a doctor's degree in transportation and civil engineering within 5 years.
-3) During his PhD, he published 4-5 papers in the field of transportation.
+1) Get a chance to pursue PhD program.
+2) Obtain a PhD degree in transportation and civil engineering within 5 years.
+3) Publish 4-5 first author publications in the field of transportation.
 4) Become an assistant professor within 7 years
