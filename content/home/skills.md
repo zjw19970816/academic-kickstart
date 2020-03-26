@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "publons"
   icon_pack = "ai"
-  name = "Programming1"
+  name = "Programming11212"
   description = "Python,Matlab,Java"
   
 [[feature]]
