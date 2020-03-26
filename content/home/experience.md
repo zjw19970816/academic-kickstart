@@ -40,9 +40,11 @@ date_format = "Jan 2006"
   date_start = "2020-01-18"
   date_end = "2019-12-18"
   description = """	
-  Learning the design and principle of the auto control board and the drive board, understanding the production    
-  process of the auto control board and the drive board, participating in the development of the company's project products, and at the 
-  same time understanding the principle, debugging and UD of the auto motor control.
+  Responsibilities include:
+  
+  * Learning the principle of the auto control board and the drive board.    
+  * Designing the auto control board and the drive board.
+  * Debugging and UD of the auto motor control.
   """
   
 [[experience]]
@@ -53,7 +55,11 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = "2018-09-01"
   description = """
-  Circuit board (manual & automatic)，Automobile control panel and driving plate.
+  Responsibilities include:
+  
+  * Circuit board (manual & automatic)
+  * Automobile control panel
+  * Driving plate.
   """
 
 +++
